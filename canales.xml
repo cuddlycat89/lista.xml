@@ -24,7 +24,7 @@
     <display-name lang="es">LA SEXTA HD</display-name>
     <url>http://www.vodafonenetvonline.es</url>
   </channel>
-  <channel id="AXN">
+  <channel update="i" site="elmundo.es" site_id="63" xmltv_id="AXN">
     <display-name lang="es">AXN</display-name>
     <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/f4/10000884.png" />
     <url>http://www.elmundo.es</url>
