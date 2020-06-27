@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LA 1 HD">
+    <display-name lang="es">LA 1 HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="La 2 HD">
+    <display-name lang="es">LA 2 FHD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="ANTENA 3 HD">
+    <display-name lang="es">Antena 3 HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="CUATRO HD">
+    <display-name lang="es">Cuatro HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="TELECINCO HD">
+    <display-name lang="es">Telecinco HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="LA SEXTA HD">
+    <display-name lang="es">LA SEXTA HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="#0 HD">
+    <display-name lang="es">#0 HD</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/f4/10000884.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="M.ESTRENOS HD">
+    <display-name lang="es">Movistar Estrenos HD</display-name>
+    <url>http://www.vodafonenetvonline.es</url>
+  </channel>
+  <channel id="M. DISNEY">
+    <display-name lang="es">Movistar Disney</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. ACCION HD">
+    <display-name lang="es">Movistar Accion HD</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/cf/10000847.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="M.COMEDIA HD">
+    <display-name lang="es">Movistar Comedia HD</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/d0/10000848.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="M. DRAMA HD">
+    <display-name lang="es">Movistar Drama HD</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/d1/10000849.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="M.CineDocRoll">
+    <display-name lang="es">Movistar CineDoc&amp;Roll HD</display-name>
+    <icon src="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/ce/10000846.png" />
+    <url>http://www.elmundo.es</url>
+  </channel>
+  </tv>
